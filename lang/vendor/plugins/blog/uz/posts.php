@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'author' => 'Muallif',
+    'cannot_delete' => 'Postni oʻchirib boʻlmadi',
+    'categories' => 'Kategoriyalar',
+    'category' => 'Turkum',
+    'create' => 'Yangi post yaratish',
+    'edit' => 'Xabarni tahrirlash',
+    'edit_this_post' => 'Ushbu postni tahrirlang',
+    'form' => [
+        'categories' => 'Kategoriyalar',
+        'content' => 'Tarkib',
+        'description' => 'Tavsif',
+        'description_placeholder' => 'Post uchun qisqacha tavsif (Maksimal :c belgilar)',
+        'format_type' => 'Format',
+        'is_featured' => 'Taqdim etilganmi?',
+        'name' => 'Ism',
+        'name_placeholder' => 'Xabar nomi (Maksimal :c belgilar)',
+        'note' => 'Kontentga e\'tibor bering',
+        'tags' => 'Teglar',
+        'tags_placeholder' => 'Teglar',
+    ],
+    'menu_name' => 'Xabarlar',
+    'no_new_post_now' => 'Endi yangi post yo\'q!',
+    'post' => 'Post',
+    'post_deleted' => 'Post oʻchirildi',
+    'posts' => 'Xabarlar',
+    'widget_posts_recent' => 'Oxirgi xabarlar',
+];

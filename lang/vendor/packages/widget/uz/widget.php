@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'available' => 'Mavjud vidjetlar',
+    'create' => 'Yangi vidjet',
+    'delete' => 'Oʻchirish',
+    'delete_success' => 'Vidjet muvaffaqiyatli oʻchirildi!',
+    'edit' => 'Vidjetni tahrirlash',
+    'instruction' => 'Vidjetni faollashtirish uchun uni yon panelga torting yoki ustiga bosing. Vidjetni oʻchirish va sozlamalarini oʻchirish uchun uni orqaga torting.',
+    'name' => 'Vidjetlar',
+    'number_post_display' => 'Raqamli postlar ko\'rsatiladi',
+    'number_tag_display' => 'Raqam teglari ko\'rsatiladi',
+    'primary_sidebar_description' => 'Yon panelning asosiy qismi',
+    'primary_sidebar_name' => 'Asosiy yon panel',
+    'save_success' => 'Vidjetni muvaffaqiyatli saqlang!',
+    'select_menu' => 'Menyu ni tanlang',
+    'widget_custom_menu' => 'Maxsus menyu',
+    'widget_custom_menu_description' => 'Vidjet maydoniga maxsus menyu qo\'shing.',
+    'widget_recent_post' => 'Oxirgi xabarlar',
+    'widget_recent_post_description' => 'Oxirgi xabarlar vidjeti.',
+    'widget_tag' => 'Teglar',
+    'widget_tag_description' => 'Ommabop teglar',
+    'widget_text' => 'Matn',
+    'widget_text_description' => 'Ixtiyoriy matn yoki HTML.',
+];
