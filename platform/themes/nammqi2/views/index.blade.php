@@ -1,1 +1,1 @@
-<h2>This is the homepage</h2>
+@php Theme::layout('homepage'); @endphp

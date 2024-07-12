@@ -47,12 +47,6 @@ return [
 
             $version = get_cms_version();
 
-
-
-
-
-
-
             $theme->asset()->usePath()->add('vendor', 'css/vendor/bootstrap.min.css', version: $version);
             $theme->asset()->usePath()->add('slick', 'css/vendor/slick.css', version: $version);
             $theme->asset()->usePath()->add('slick-theme', 'css/vendor/slick-theme.css', version: $version);
